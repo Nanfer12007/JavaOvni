@@ -1,0 +1,6 @@
+com\example\ufo\model\ShapeType.class
+com\example\ufo\service\SightingService.class
+com\example\ufo\controller\SightingController.class
+com\example\ufo\model\Sighting.class
+com\example\ufo\repository\SightingRepository.class
+com\example\ufo\UfoApplication.class
